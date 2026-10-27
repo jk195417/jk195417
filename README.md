@@ -40,6 +40,7 @@
 | Project | What it does | Built with |
 | --- | --- | --- |
 | [bisection-anything](https://github.com/jk195417/bisection-anything) | Rank anything by pairwise comparison: answer "which one do you like more?" until you have a winner or a full ranking. [Try it →](https://yang-hong-xin.com/bisection-anything/) | TypeScript |
+| [danmu-classroom](https://github.com/danmu-classroom/danmu-classroom) | Let the audience send messages from their phone or LINE that fly across the speaker's screen as danmu. Rewritten in 2026 on Cloudflare Workers with a Durable Object per room pushing over WebSocket, plus a transparent Electron overlay for slides. [Try it →](https://danmu-classroom.danmu-worker.workers.dev) | TypeScript, Cloudflare Workers, Electron |
 | [lottery](https://github.com/jk195417/lottery) | A small lottery-drawing web tool for Christmas parties. [Try it →](https://yang-hong-xin.com/lottery) | Vue, Bulma |
 | [chinese-segmentation-as-service](https://github.com/jk195417/chinese-segmentation-as-service) | Serves jieba, SnowNLP and pkuseg Chinese word segmentation as an HTTP API. | Python, Flask |
 | [dcard-crawler](https://github.com/jk195417/dcard-crawler) | Crawls Dcard posts and comments for my master's thesis research. [Thesis →](https://hdl.handle.net/11296/gazcm2) | Ruby, PostgreSQL |
