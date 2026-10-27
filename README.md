@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aaron Yang 楊竑昕 👋</h1>
 
 <p align="center">
-  Software Developer at <b>Micron</b> · Writing Ruby on Rails since 2014 · Based in Kaohsiung, Taiwan 🇹🇼
+  Staff AI Engineer at <b>Micron</b> · Writing code since 2014 · Based in Taiwan 🇹🇼
 </p>
 
 <p align="center">
@@ -12,19 +12,25 @@
 
 ## About me
 
-- 🏭 Building and maintaining enterprise web systems at Micron, mostly **.NET + Angular**
+- 🏭 Building and running a workflow and change management system used by **3,000+ people every day across 7 regions** at Micron
+- 👥 Leading a team of 4 developers. I care about code quality, testing culture and developer experience
+- ☁️ Moved our systems from Windows Server IIS to **Kubernetes** and **Azure**. Wins along the way: CPU 100% → <10%, a daily ETL job 7 hours → 1 minute, on-call 60+ → <5 hours a week
 - 💎 Started out with **Ruby on Rails**, and I still reach for it for side projects
 - 🎓 M.S. in Information Management, NSYSU. My thesis used NLP to measure how healthy conversations are on online forums ([Dcard](https://github.com/jk195417/dcard-crawler))
 - ✍️ I write tutorials and notes on my [blog](https://blog.yang-hong-xin.com) (in Traditional Chinese)
 
 ## Tech stack
 
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
@@ -42,7 +48,8 @@
 
 ## 中文簡介
 
-嗨，我是楊竑昕，住在高雄，2014 年開始寫 Ruby on Rails，目前在美光（Micron）當軟體工程師。
+嗨，我是楊竑昕，來自高雄，2014 年開始寫程式，現任美光（Micron）Staff AI Engineer，
+負責服務 7 個地區、每日 3000+ 位使用者的變更管理與簽核系統，並帶領 4 人團隊。
 平常喜歡做些小工具 side project，也會在[部落格](https://blog.yang-hong-xin.com)寫技術筆記。
 
 ---
