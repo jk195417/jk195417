@@ -13,7 +13,7 @@
 ## About me
 
 - 🏭 Building and running a workflow and change management system used by **3,000+ people every day across 7 regions** at Micron
-- 👥 Leading a team of 4 developers. I care about code quality, testing culture and developer experience
+- 🏗️ Architect of a 20-person team. I care about code quality, testing culture and developer experience
 - ☁️ Moved our systems from Windows Server IIS to **Kubernetes** and **Azure**. Wins along the way: CPU 100% → <10%, a daily ETL job 7 hours → 1 minute, on-call 60+ → <5 hours a week
 - 💎 Started out with **Ruby on Rails**, and I still reach for it for side projects
 - 🎓 M.S. in Information Management, NSYSU. My thesis used NLP to measure how healthy conversations are on online forums ([Dcard](https://github.com/jk195417/dcard-crawler))
@@ -49,7 +49,7 @@
 ## 中文簡介
 
 嗨，我是楊竑昕，來自高雄，2014 年開始寫程式，現任美光（Micron）Staff AI Engineer，
-負責服務 7 個地區、每日 3000+ 位使用者的變更管理與簽核系統，並帶領 4 人團隊。
+負責服務 7 個地區、每日 3000+ 位使用者的變更管理與簽核系統，目前擔任 20 人團隊的 Architect。
 平常喜歡做些小工具 side project，也會在[部落格](https://blog.yang-hong-xin.com)寫技術筆記。
 
 ---
