@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://blog.yang-hong-xin.com"><img alt="Blog" src="https://img.shields.io/badge/Blog-blog.yang--hong--xin.com-1f6feb?style=flat-square&logo=hexo&logoColor=white"></a>
-  <a href="https://resume.yang-hong-xin.com"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-2ea44f?style=flat-square&logo=readthedocs&logoColor=white"></a>
+  <a href="https://yang-hong-xin.notion.site/Resume-b8b910439158413a81868e1a39c27310"><img alt="Resume" src="https://img.shields.io/badge/Resume-English-2ea44f?style=flat-square&logo=notion&logoColor=white"></a>
+  <a href="https://yang-hong-xin.notion.site/926f9aff8ffd4166a8e1ed5d37f6cd89"><img alt="履歷" src="https://img.shields.io/badge/%E5%B1%A5%E6%AD%B7-%E4%B8%AD%E6%96%87-2ea44f?style=flat-square&logo=notion&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/hongxin-yang"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hongxin--yang-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
@@ -51,7 +52,7 @@
 
 嗨，我是楊竑昕，來自高雄，2014 年開始寫程式，現任美光（Micron）Staff AI Engineer，
 負責服務 7 個地區、每日 3000+ 位使用者的變更管理與簽核系統，目前擔任 20 人團隊的 Architect。
-平常喜歡做些小工具 side project，也會在[部落格](https://blog.yang-hong-xin.com)寫技術筆記。
+平常喜歡做些小工具 side project，也會在[部落格](https://blog.yang-hong-xin.com)寫技術筆記。完整履歷請見[這裡](https://yang-hong-xin.notion.site/926f9aff8ffd4166a8e1ed5d37f6cd89)。
 
 ---
 
