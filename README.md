@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://yang-hong-xin.com"><img alt="Website" src="https://img.shields.io/badge/Website-yang--hong--xin.com-555?style=flat-square&logo=googlehome&logoColor=white"></a>
   <a href="https://blog.yang-hong-xin.com"><img alt="Blog" src="https://img.shields.io/badge/Blog-blog.yang--hong--xin.com-1f6feb?style=flat-square&logo=hexo&logoColor=white"></a>
   <a href="https://yang-hong-xin.notion.site/Resume-b8b910439158413a81868e1a39c27310"><img alt="Resume" src="https://img.shields.io/badge/Resume-English-2ea44f?style=flat-square&logo=notion&logoColor=white"></a>
   <a href="https://yang-hong-xin.notion.site/926f9aff8ffd4166a8e1ed5d37f6cd89"><img alt="履歷" src="https://img.shields.io/badge/%E5%B1%A5%E6%AD%B7-%E4%B8%AD%E6%96%87-2ea44f?style=flat-square&logo=notion&logoColor=white"></a>
