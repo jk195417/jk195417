@@ -14,9 +14,11 @@
 
 ## About me
 
-- 🏭 Building and running a workflow and change management system used by **3,000+ people every day across 7 regions** at Micron
-- 🏗️ Architect of a 20-person team. I care about code quality, testing culture and developer experience
-- ☁️ Moved our systems from Windows Server IIS to **Kubernetes** and **Azure**. Wins along the way: CPU 100% → <10%, a daily ETL job 7 hours → 1 minute, on-call 60+ → <5 hours a week
+- 🏭 Building and running a workflow and change management platform used by **thousands of people every day across Micron's global fab, assembly and test sites**
+- 🏗️ Design authority in an engineering org of about 20. I care about code quality, observability and developer experience
+- ⚡ Performance and reliability: slowest operations from minutes to seconds, database CPU from saturated to under 10%, manual API restarts from 20+ a week to zero, on-call from 60+ to under 5 hours a week
+- 🤖 Bringing AI into everyday engineering: AI code review backed by evals, test coverage from about 40% to 85% with agent-written tests, MCP servers and Copilot skills
+- 🎤 Talk: *Less is More — Designing Agent Context Files from Paper to Production* (2026)
 - 💎 Started out with **Ruby on Rails**, and I still reach for it for side projects
 - 🎓 M.S. in Information Management, NSYSU. My thesis used NLP to measure how healthy conversations are on online forums ([Dcard](https://github.com/jk195417/dcard-crawler))
 - ✍️ I write tutorials and notes on my [blog](https://blog.yang-hong-xin.com) (in Traditional Chinese)
@@ -52,7 +54,7 @@
 ## 中文簡介
 
 嗨，我是楊竑昕，來自高雄，2014 年開始寫程式，現任美光（Micron）Staff AI Engineer，
-負責服務 7 個地區、每日 3000+ 位使用者的變更管理與簽核系統，目前擔任 20 人團隊的 Architect。
+負責全球各廠區每天數千位使用者的變更管理與簽核平台，擔任約 20 人工程組織的設計負責人，近年專注把 AI 帶進日常開發。
 平常喜歡做些小工具 side project，也會在[部落格](https://blog.yang-hong-xin.com)寫技術筆記。完整履歷請見[這裡](https://yang-hong-xin.notion.site/926f9aff8ffd4166a8e1ed5d37f6cd89)。
 
 ---
