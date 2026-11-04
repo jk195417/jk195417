@@ -60,6 +60,6 @@
 ---
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jk195417&show_icons=true&hide_border=true&count_private=true" height="160">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk195417&layout=compact&hide_border=true" height="160">
+  <img alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=jk195417&show_icons=true&hide_border=true&count_private=true" height="160">
+  <img alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jk195417&layout=compact&hide_border=true" height="160">
 </p>
